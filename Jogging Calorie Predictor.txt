@@ -1,0 +1,3 @@
+Jogging Calorie Predictor
+
+Using univariate linear regression model, we are able to predict the kcal burnt by a person weighing 70kgs jogging at 9km/h!
